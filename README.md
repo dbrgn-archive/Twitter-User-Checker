@@ -1,7 +1,7 @@
 Twitter User Checker
 ====================
 
-This is a very simple script to check whether an user on twitter is active, suspended or does not exist.
+This is a very simple script to check whether an user on Twitter is active, suspended or does not exist.
 
 Usage
 -----
